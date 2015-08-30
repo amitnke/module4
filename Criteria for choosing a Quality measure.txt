@@ -1,0 +1,5 @@
+Depending on the cost of predictions -
+
+If cost (FP) >>cost (FN) then choose a model which gives Highest Precision
+If cost(FP) << cost(FN) then choose a model which gives Hihest Recall
+If cost(FP) == cost (FN) then choose amodel where Precision roughly equals Recall
